@@ -6,7 +6,7 @@ import Footer from "../common/footer";
 
 export const Auth = () => {
   return (
-    <div className="">
+    <div>
       <Header />
       <div className="d-flex">
         <Sidebar />

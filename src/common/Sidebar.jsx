@@ -1,7 +1,9 @@
 const Sidebar = () => {
   return (
     <div className="bg-secondary">
-      <button className="btn btn-primary">Logout</button>
+      <div className="d-flex justify-content-center align-items-end">
+        <button className="btn btn-primary ">Logout</button>
+      </div>
     </div>
   );
 };
